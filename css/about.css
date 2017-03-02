@@ -1,0 +1,38 @@
+/******* About Voltage CSS **********/
+
+#aboutvolt {
+	color: #ffffff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+/**********************************/
+
+/******* Meet the Team CSS ********/
+
+#team {
+	color: #ffffff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#teampic {
+	height:350px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.team {
+	display: inline-block;
+	padding: 10px;
+	position: relative;
+	color: #fff;
+	text-align: left;
+}
+
+#teampics {
+	height: 200px;
+	display: block;
+}
+/**************************/
