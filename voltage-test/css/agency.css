@@ -3,6 +3,17 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+
+/*
+TODO:
+add urops (pdf link button?)
+change fonts
+make smaller team pic sizes
+put photos in past events modals
+fix upcoming events section
+fix footer
+*/
+
 #team-pic {
   height: 400px;
 }
@@ -230,7 +241,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/header-bg.jpg');
+  background-image: url('../img/ee-wut.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
