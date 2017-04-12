@@ -8,10 +8,10 @@
 TODO:
 add urops (pdf link button?)
 change fonts
-make smaller team pic sizes
 put photos in past events modals
 fix upcoming events section
 fix footer
+add logo to splash
 */
 
 #team-pic {
@@ -555,6 +555,8 @@ section h3.section-subheading {
   margin-bottom: 50px;
 }
 .team-member img {
+  height: 87%;
+  width: 87%;
   margin: 0 auto;
   border: 7px solid white;
 }
