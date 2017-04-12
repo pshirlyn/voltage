@@ -4,13 +4,10 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
-/*
-TODO:
-add urops (pdf link button?)
-put photos in past events modals
-fix footer
-add underground guide
-*/
+.event-pic {
+  height: 50%;
+  width: 50%;
+}
 
 #team-pic {
   height: 400px;
