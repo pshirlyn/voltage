@@ -17,6 +17,10 @@
   height: 150px;
 }
 
+#ee-pic {
+  height: 390px;
+}
+
 body {
   overflow-x: hidden;
   font-family: "Titillium Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
